@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio1\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_ea3566817aae63c8e87ab16e4d1ccfdc8d788289\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_be88e4a3559bb2816b1f59b4cf4eb6bf3085837d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fmaalouli\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognito\2.3.3\62d18ff54e5bdb047ff4df01084370cb15e55c3a\aws-android-sdk-cognito-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="62d18ff54e5bdb047ff4df01084370cb15e55c3a">
+        <dex dex="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognito-2.3.3_d12336e4c231a9bc646748d2344aa308ab58afdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_f4b3dabfee3786f4a9a1a882e492b44343fe907f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fmaalouli\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.3.3\c573e3c8b9fe81aa502441338155144a6217715f\aws-android-sdk-s3-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c573e3c8b9fe81aa502441338155144a6217715f">
+        <dex dex="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-s3-2.3.3_e906398a148e619467c23068bc0af6d8ec28e3cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a780191fde5bc973dc9be7f8a4e8532dd3437aea">
+        <dex dex="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1cb2425733c599329b4fbed3cca6f76448016a6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fmaalouli\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.2.0_13042ad725f9e9a91a8c7ae4295a300dd1605392\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="555675d4a93b362aa798ec7efe3b82fb309e3c50">
+        <dex dex="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_13f533764df4e61880d6fae3aae513f41f324259\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.6.0_925c56d972bc9c956a03da441c5fdb8114f4bd94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fmaalouli\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_4c147d1facd569ed2dec13623b9a7d05a39763ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fmaalouli\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.3.3\45991c46f31e5fb14777759e0300abc156c6efa8\aws-android-sdk-core-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45991c46f31e5fb14777759e0300abc156c6efa8">
+        <dex dex="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-core-2.3.3_cb1ec8760e4f90def18734d4adc39528c19e4a9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_e3faca56e65f7a94fb6e5c1ac2d67c12e788fbd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_22a925af956c8dc1447f05da2739a569c6049bd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fmaalouli\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-mobileanalytics\2.3.3\bfcde9f57f4635e3ec4529b5c5aa3d4a18b6fbce\aws-android-sdk-mobileanalytics-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bfcde9f57f4635e3ec4529b5c5aa3d4a18b6fbce">
+        <dex dex="C:\Users\fmaalouli\Downloads\AppForTesting\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-mobileanalytics-2.3.3_1b201acc95caad69f26218eb783de122c495c099\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Mon Oct 31 19:06:29 PDT 2016
+base.0=C\:\\Users\\fmaalouli\\Downloads\\AppForTesting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1cb2425733c599329b4fbed3cca6f76448016a6b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\fmaalouli\\Downloads\\AppForTesting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_13f533764df4e61880d6fae3aae513f41f324259\\classes.dex
+base.1=C\:\\Users\\fmaalouli\\Downloads\\AppForTesting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_13f533764df4e61880d6fae3aae513f41f324259
+file.0=C\:\\Users\\fmaalouli\\Downloads\\AppForTesting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1cb2425733c599329b4fbed3cca6f76448016a6b\\classes.dex
